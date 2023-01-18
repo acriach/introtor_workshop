@@ -15,6 +15,9 @@ By the end of the workshop you will understand:
 
 This workshop will consist of several small group (~ 5 people) and individual activities on themes relating to the learning objectives.
 
+1. Activity 1: Meet and Greet Metadata.
+2. Activity 2: Biological Metadata.
+
 ## Introduction
 
 As mentioned in the video, [**metadata**](https://techterms.com/definition/metadata) can be thought of as data about data.  It is *structured* information that describes, explains, locates or make it easier to retrieve, use, or manage an information resource (data).
