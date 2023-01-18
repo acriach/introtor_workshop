@@ -33,6 +33,10 @@ Introduce yourself to the rest of the group by describing yourself using 3 examp
 
 ## Biological metadata
 
+As stated in The [European Bioinformatics Institute’s data resources 2014](https://pubmed.ncbi.nlm.nih.gov/24271396/), 
+
+*Molecular Biology has been at the heart of the 'big data' revolution from its very beginning, and the need for access to biological data is a common thread running from the 1965 publication of Dayhoff's 'Atlas of Protein Sequence and Structure' through the Human Genome Project in the late 1990s and early 2000s to today's population-scale sequencing initiatives. *
+
 <p align="center">
   <img src="metadata-biol.png" width="512"/>
 </p>
