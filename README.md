@@ -26,7 +26,7 @@ In groups
 
 ## FAIR Data
 
-(**FAIR**)[https://www.go-fair.org/fair-principles/] data refers to data that is **Findable**, **Accessible**, **Interoperable**, and **Reusable**. These principles were developed in order to improve the transparency, accountability, and reproducibility of research data, and to make it easier for researchers to access, use, and share data.
+[**FAIR**](https://www.go-fair.org/fair-principles/) data refers to data that is **Findable**, **Accessible**, **Interoperable**, and **Reusable**. These principles were developed in order to improve the transparency, accountability, and reproducibility of research data, and to make it easier for researchers to access, use, and share data.
 
 **Findable** data is data that can be easily located and identified by both humans and machines. This includes clear and descriptive metadata, as well as persistent and unique identifiers such as Digital Object Identifiers (DOIs).
 
