@@ -21,7 +21,7 @@ As mentioned in the video, **metadata** can be thought of as data about data.  I
 
 ### Activity 1 
 
-In groups 
+In groups using the example of book metadata from the video think of 5 examples of metadata. Foe each one state whether it is **Descriptive**, **Structural** or **administrative**.
 
 
 ## FAIR Data
