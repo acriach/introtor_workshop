@@ -19,9 +19,9 @@ This workshop will consist of several small group (~ 5 people) and individual ac
 
 As mentioned in the video, **metadata** can be thought of as data about data.  It is *structured* information that describes, explains, locates or make it easier to retrieve, use, or manage an information resource (data).
 
-### Activity 1 
+### Activity 1: Meet and Greet Metadata (5 minutes)
 
-In groups using the example of book metadata from the video think of 5 examples of metadata. Foe each one state whether it is **Descriptive**, **Structural** or **administrative**.
+Introduce yourself to the rest of the group by describing yourself using 3 examples of personal metadata. For each one state whether it is **Descriptive**, **Structural** or **Administrative**.
 
 <img src="metadata-types.png" width="512"/>
 
