@@ -58,5 +58,8 @@ Adhering to the principles of FAIR data helps to ensure the quality and integrit
 
 ## Useful Links
 
-[Metadata: describing data consistently](https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/what-makes-a-good-bioinformatics-database/describing-data-consistently/) EBI Online tutorial.
+### EBI Online Tutorials
+
+[Metadata: Describing Data Consistently](https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/what-makes-a-good-bioinformatics-database/describing-data-consistently/) 
+[Using Publicly Available Data](https://www.ebi.ac.uk/training/online/courses/using-publicly-available-data/)
 
