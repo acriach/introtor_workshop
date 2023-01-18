@@ -23,14 +23,19 @@ As mentioned in the video, **metadata** can be thought of as data about data.  I
 
 Introduce yourself to the rest of the group by describing yourself using 3 examples of personal metadata. For each one state whether it is **Descriptive**, **Structural** or **Administrative**.
 
-<img src="metadata-types.png" width="512"/>
+<p align="center">
+  <img src="metadata-types.png" width="512"/>
+</p>
+
+
 
 ***Question: Which metadata was most useful?*** 
 
 ## Biological metadata
 
-<img src="metadata-biol.png" width="512"/>
-
+<p align="center">
+  <img src="metadata-biol.png" width="512"/>
+</p>
 
 
 ## FAIR Data
