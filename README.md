@@ -11,10 +11,17 @@ By the end of the workshop you will understand:
 3. Some basic biological metadata types.
 4. What makes good metadata.
 
+## Format
+
+This workshop will consist of several small group (~ 5 people) and individual activities on themes relating to the learning objectives.
+
 ## Introduction
 
-As mentioned in the video, **metadata** can be thought of as data about data. Structured information that describes, explains, locates or make it easier to retrieve, use, or manage an information resource.
-![image](https://user-images.githubusercontent.com/7945506/213173537-ba3d9c0f-d6e4-46e7-8376-47ebe8f3b35c.png)
+As mentioned in the video, **metadata** can be thought of as data about data.  It is *structured* information that describes, explains, locates or make it easier to retrieve, use, or manage an information resource (data).
+
+### Activity 1 
+
+In groups 
 
 
 ## FAIR Data
