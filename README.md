@@ -17,7 +17,7 @@ This workshop will consist of several small group (~ 5 people) and individual ac
 
 ## Introduction
 
-As mentioned in the video, **metadata** can be thought of as data about data.  It is *structured* information that describes, explains, locates or make it easier to retrieve, use, or manage an information resource (data).
+As mentioned in the video, [**metadata**](https://techterms.com/definition/metadata) can be thought of as data about data.  It is *structured* information that describes, explains, locates or make it easier to retrieve, use, or manage an information resource (data).
 
 ### Activity 1: Meet and Greet Metadata (5 minutes)
 
