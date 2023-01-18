@@ -23,8 +23,7 @@ As mentioned in the video, **metadata** can be thought of as data about data.  I
 
 In groups using the example of book metadata from the video think of 5 examples of metadata. Foe each one state whether it is **Descriptive**, **Structural** or **administrative**.
 
-![alt text](metadata-types.png)
-
+<img src="metadata-types.png" width="128"/>
 
 ## FAIR Data
 
