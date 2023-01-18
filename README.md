@@ -56,5 +56,7 @@ As stated in The [European Bioinformatics Institute’s data resources 2014](htt
 
 Adhering to the principles of FAIR data helps to ensure the quality and integrity of research data, and makes it easier for researchers to build upon and extend previous work. It is increasingly being recognized as an important aspect of responsible and ethical research practices.
 
+## Useful Links
 
+[Metadata: describing data consistently](https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/what-makes-a-good-bioinformatics-database/describing-data-consistently/) EBI Online tutorial.
 
