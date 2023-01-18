@@ -45,7 +45,7 @@ As stated in The [European Bioinformatics Institute’s data resources 2014](htt
 
 **Individually** For each of the headings *DNA and RNA*, *Proteins*, *Structures*, and *Publications* think of a data type, database and three types of metadata (one descriptive, structural and administrative). **(10 minutes)**
 
-**As a class** we will go through these examples **(10 minutes)**
+We will then go through these examples **As a class** **(10 minutes)**
 
 ## FAIR Data
 
