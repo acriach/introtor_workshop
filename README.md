@@ -13,7 +13,7 @@ By the end of the workshop you will understand:
 
 ## Format
 
-This workshop will consist of several small group (~ 5 people) and individual activities on themes relating to the learning objectives and will run for **~ 50 minutes**.
+This workshop will consist of several small group (~ 5 people) and individual activities on themes relating to the learning objectives and will run for ~ **50 minutes**.
 
 - Activity 1: Meet and Greet Metadata.
 - Activity 2: Biological Metadata.
