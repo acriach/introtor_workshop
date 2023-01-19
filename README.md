@@ -64,6 +64,10 @@ We will then go through these examples **As a class** **(10 minutes)**
 
 Adhering to the principles of FAIR data helps to ensure the quality and integrity of research data, and makes it easier for researchers to build upon and extend previous work. It is increasingly being recognized as an important aspect of responsible and ethical research practices.
 
+## Activity 3: FAIR and Metadata **(10 minutes)**
+
+**In Groups** Choose one of the examples from **Activity 2** and discuss how the metadata types link to aspects of **FAIR DATA**.
+
 ## Useful Links
 
 ### EBI Online Tutorials
