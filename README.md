@@ -45,6 +45,8 @@ As stated in The [European Bioinformatics Institute’s data resources 2014](htt
   <img src="metadata-biol.png" width="512"/>
 </p>
 
+Big data has many implications for biology; for example [*how can we construct knowledge*](https://elifesciences.org/articles/47381#info)
+
 ## Activity 2: Biological Metadata (20 minutes)
 
 **Individually** For each of the headings *DNA and RNA*, *Proteins*, *Structures*, and *Publications* think of a data type, database and three types of metadata (one descriptive, structural and administrative). **(10 minutes)**
