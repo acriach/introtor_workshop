@@ -15,8 +15,9 @@ By the end of the workshop you will understand:
 
 This workshop will consist of several small group (~ 5 people) and individual activities on themes relating to the learning objectives.
 
-1. Activity 1: Meet and Greet Metadata.
-2. Activity 2: Biological Metadata.
+- Activity 1: Meet and Greet Metadata.
+- Activity 2: Biological Metadata.
+- Activity 3: FAIR and Metadata
 
 ## Introduction
 
