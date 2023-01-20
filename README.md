@@ -1,6 +1,6 @@
 # Metadata Workshop
 ## Description
-This workshop will expand on the video introduction to metadata and expand on it by looking at some biological databases and metadata.
+This workshop will expand on the [video introduction to metadata](https://leeds365-my.sharepoint.com/:v:/g/personal/fbsmbaw_leeds_ac_uk/EdX4ThFhs3VAj1CeBz8YyHYBZzar-nlTi6cAvBQ07HORoA?e=jQdmj2&nav=%7B%22playbackOptions%22%3A%7B%22startTimeInSeconds%22%3A11.94%7D%7D) and expand on it by looking at some biological databases and metadata.
 
 ## Learning outcomes
 
