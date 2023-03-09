@@ -1,6 +1,6 @@
 # Introduction to R Workshop
 ## Description
-This workshop will expand on the [video introduction to R](https://leeds365-my.sharepoint.com/:v:/g/personal/fbsmbaw_leeds_ac_uk/EdX4ThFhs3VAj1CeBz8YyHYBZzar-nlTi6cAvBQ07HORoA?e=jQdmj2&nav=%7B%22playbackOptions%22%3A%7B%22startTimeInSeconds%22%3A11.94%7D%7D) and help you to get started using R Studio for yourself.
+This workshop will expand on the [video introduction to R](https://mymedia.leeds.ac.uk/Mediasite/Play/ad914b5790304b7e8dbba292c6800a451d) and help you to get started using R Studio for yourself.
 
 ## Learning outcomes
 
@@ -23,7 +23,7 @@ This workshop can be completed on your own or with others. You can use a univers
 
 ## Introduction
 
-As mentioned in the video, [**metadata**](https://techterms.com/definition/metadata) you can use R Studio on a university computer or download R and RStudio onto your laptop. Choose from the instructions below to open R Studio.
+As mentioned in the [video introduction to R](https://mymedia.leeds.ac.uk/Mediasite/Play/ad914b5790304b7e8dbba292c6800a451d) you can use R Studio on a university computer or download R and RStudio onto your laptop. Choose from the instructions below to open R Studio.
 
 ### Activity 1: Open R studio
 
